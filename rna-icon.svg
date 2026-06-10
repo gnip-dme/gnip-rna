@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="RNA Form">
+  <rect width="512" height="512" rx="96" fill="#667d2d"/>
+  <path d="M132 126h248c17 0 30 13 30 30v200c0 17-13 30-30 30H132c-17 0-30-13-30-30V156c0-17 13-30 30-30z" fill="#fff"/>
+  <path d="M154 180h204M154 238h204M154 296h122" stroke="#667d2d" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="350" cy="298" r="38" fill="#8aa540"/>
+  <path d="M331 298l13 14 29-35" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
